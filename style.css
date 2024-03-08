@@ -1,6 +1,6 @@
 .hero{
     height: 200px;
-    width: 500px;
+    width: 550px;
     background-color: black;
     border-radius: 10px;
     margin: 100px auto;
@@ -51,5 +51,12 @@ h1{
     width: 120px;
     display: flex;
     justify-content: center;
+}
+
+#am-div{
+    /* background-color: red; */
+    position: relative;
+    top: 30px;
+    font-size: 10px; 
 }
 
